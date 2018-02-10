@@ -10,23 +10,23 @@ This homework has been achieved using Python 2.7 and the following libraries:
 
 Below is the list of filenames with descriptions
 
-File	Description
-math_functions.py	Helper function for math operations
-parser_file.py	Helper function for parsing files
-probe_matching.py	Map matching process
-derive_slope.py	Slope Computation
-probe_matching_multiThread.py	(Alternative/Additional) multithread map matching for cloud
+File	                            Description
+math_functions.py	                Helper function for math operations
+parser_file.py	                  Helper function for parsing files
+probe_matching.py 	              Map matching process
+derive_slope.py	                  Slope Computation
+probe_matching_multiThread.py	    (Alternative/Additional) multithread map matching for cloud
 
 
 To run the probe_matching.py and derive_slope.py programs you will have to indicate the following paths in the files:
 
-File	Line	Path for the file
-Probe_matching.py	101	Partition6467LinkData.csv
-Probe_matching.py	102	Partition6467ProbePoints.csv
-Probe_matching.py	103	Partition6467MatchedPoints.csv
-Derive_slope.py	87	Partition6467MatchedPoints.csv
-Derive_slope.py	27	SlopeComparison.csv
-Derive_slope.py	88	Partition6467LinkData.csv
+File	            Line	Path for the file
+Probe_matching.py	101	  Partition6467LinkData.csv
+Probe_matching.py	102 	Partition6467ProbePoints.csv
+Probe_matching.py	103 	Partition6467MatchedPoints.csv
+Derive_slope.py   87  	Partition6467MatchedPoints.csv
+Derive_slope.py	  27  	SlopeComparison.csv
+Derive_slope.py	  88	  Partition6467LinkData.csv
 
 
 Then launch the python file corresponding to the task you want to perform:
